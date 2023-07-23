@@ -1,0 +1,3 @@
+rony 3 95
+rahim 1 100
+karim 2 200
